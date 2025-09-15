@@ -1,1 +1,1 @@
-# Just learning Git
+# Thank you for this project, could revise my blurred CSS and Git concepts
